@@ -1,8 +1,6 @@
-- Hi, I’m Shiven! I love to work on low-level software, and also work on AI models often.
-
-(You'll find me reading a Colleen Hoover book, listening to jazz, or with my Linux laptop in hand :P)
-
-- Languages I work with often: C/C++, Ruby, Bash, Go, Python, NASM, and TS/JS (almost never).
+- Hi, I’m Shiven. I love jazz music and cats. Sometimes, I write code. 
+- I work on low-level software, ML/DL models and their applications in ethical research.
+- I use: C/C++, Ruby, Bash, Python, NASM.
 
 <!---
 GreaseCube/GreaseCube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
